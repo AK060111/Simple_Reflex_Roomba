@@ -3,8 +3,9 @@
 Mo phong Simple Reflex Agent cho robot hut bui tu dong bang Python.
 
 ## Yeu cau
-- Python 3.x
-- Jupyter Notebook / PyCharm
+- Python >= 3.10
+- Tested on Python 3.14.2
+- Jupyter Notebook hoac PyCharm
 
 ## Cach chay
 Mo file `.ipynb`, chay tung cell theo thu tu:
